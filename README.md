@@ -1,0 +1,2 @@
+# SemanaTec
+Projecto Semana Tec
